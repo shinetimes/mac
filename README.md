@@ -1,2 +1,1 @@
-# mac-steps
-MAC 的系统资源
+### MAC 的系统资源
